@@ -15,7 +15,7 @@ import java.util.List;
 @ApplicationScoped
 public class ServiceClass {
 
-  @Inject
+    @Inject
     AgroalDataSource agroalDataSource;
 
 
